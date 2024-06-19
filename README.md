@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louatiakram" alt="louatiakram" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://louatiakram.tech/](https://louatiakram.tech/)
+- 👨‍💻 All of my projects are available at [https://louatiakram.tech/](https://louatiakram.tech/){:target="_blank"}
 
 - 📫 How to reach me **akram.louatitn@gmail.com**
 
