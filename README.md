@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akram</h1>
+<h2 align="center">Hi, I'm Akram</h2>
 <h3 align="center">A passionate Web/Game developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louatiakram&label=Profile%20views&color=0e75b6&style=flat" alt="louatiakram" /> </p>
