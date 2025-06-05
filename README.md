@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Akram</h3>
-<h3 align="center">Unity XR Developer | Shopify Expert | Poster & Logo Designer</h3>
+<h3 align="center">Unity XR | Shopify Developer | Poster & Logo Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louatiakram&label=Profile%20views&color=0e75b6&style=flat" alt="louatiakram" /> </p>
 
