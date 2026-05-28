@@ -5,5 +5,3 @@
 
 - 👨‍💻  Portfolio : **<a href="https://andotv.itch.io/" target="_blank">andotv.itch.io</a>**
 - 📫  Email : **akramlouati.dev@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louatiakram&show_icons=true&locale=en&layout=compact" alt="louatiakram" /></p>
