@@ -1,16 +1,13 @@
-<h3 align="center">Hi, I'm Akram</h3>
-<h3 align="center">Game Developer</h3>
+<h1 align="center">Akram Louati</h1>
+<h3 align="center">Game Developer | Unity | Multiplayer | XR</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=louatiakram&label=Profile%20views&color=0e75b6&style=flat" alt="louatiakram" />
-</p>
+<div align="center">
 
-<p align="left">
-  <a href="https://louatiakram.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=githubpages&logoColor=white)](https://louatiakram.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramlouati.dev@gmail.com)
 
-  <a href="mailto:akramlouati.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=louatiakram&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+
+</div>
