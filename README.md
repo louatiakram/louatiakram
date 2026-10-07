@@ -1,5 +1,5 @@
 <h1 align="center">Akram Louati</h1>
-<h3 align="center">Computer Science Engineer | Game Development, XR & Multiplayer Systems</h3>
+<h3 align="center">Unity Game Developer | Technical Designer | XR Developer | R&D</h3>
 
 <div align="center">
 
